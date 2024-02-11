@@ -16,8 +16,6 @@ Authors:
 
 Welcome to the Advanced Python and Container Sessions!
 
-![WeirdLogo](./images/weird_logo.jpg)
-
 In these two sessions you'll learn some good coding practices for public code, see examples how to publish code/publish a software package, and get a taste of the usefulness of containers.
 
 The main readmes and presentations will be in the respective folders, but here is a short summary:
