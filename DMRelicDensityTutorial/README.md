@@ -1,3 +1,5 @@
-CDM Computing Subgroup infomation: 
+# Relic density calculation tutorial 
 
-*to be added*
+There are two notebooks: a 'skeleton' with the solutions removed, and a 'solutions' notebook with answers included.
+
+Delivered by Jayden Newstead.
