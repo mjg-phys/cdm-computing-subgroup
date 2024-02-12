@@ -1,3 +1,3 @@
-CDM Computing Subgroup infomation: 
+See:
 
-*to be added*
+https://github.com/cajohare/HowToMakeAPlot
