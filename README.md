@@ -8,6 +8,7 @@ CDM Computing Subgroup:
 
 [Git Part 2](https://adelaide.zoom.us/rec/share/OSH8d-fGRjz0oI_5UatudlGBzUgBEaCpTPABVKWN0WNOINt4DTg5sasihmhQYGbK.N8o19cYNbkH6Xxh-?startTime=1707710440000)
 
+Passcode: q.FC0T@c
 
 
 
