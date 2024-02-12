@@ -1,3 +1,5 @@
-#Relic density calculation tutorial delivered by Jayden Newstead.
+# Relic density calculation tutorial 
 
-There are two notebooks a 'skeleton' with the solutions removed, and a 'solutions' notebook with answers included.
+There are two notebooks: a 'skeleton' with the solutions removed, and a 'solutions' notebook with answers included.
+
+Delivered by Jayden Newstead.
