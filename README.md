@@ -1,3 +1,3 @@
 CDM Computing Subgroup infomation: 
 
-*to be added*
+get pranked
