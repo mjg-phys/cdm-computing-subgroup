@@ -7,11 +7,11 @@
 - Jayden Newstead (UoM)
 
 ### Local: 
-- Stephan Mayer-Ba  (UoM)
+- Stephan Meighan-Berger  (UoM)
 - Ellen Sirks (USyd)
-- Lidnesy Bignell (ANU)
+- Lindsey Bignell (ANU)
 - Ben McAllister (Swin)
-- Maxim (UWA)
+- Maxim Goryachev (UWA)
 
 
 ## Schedule 
