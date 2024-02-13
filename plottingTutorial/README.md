@@ -22,3 +22,6 @@ Add these lines to example.inbpy to get the data on Colab
 !curl -L -o Models.zip https://github.com/mjg-phys/HowToMakeAPlot/raw/main/PlottingChallenge/Models.zip
 !unzip Models.zip 
 !rm Models.zip 
+```
+
+This will cause the notebook to hang, but click the square to stop it from hanging, and once it finishes, the rest of the code should run
