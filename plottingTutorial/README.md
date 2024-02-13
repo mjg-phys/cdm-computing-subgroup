@@ -12,3 +12,13 @@ To run with LaTeX fonts, please put these at the top of any notebook. It takes o
 ! sudo texhash 
 
 ```
+
+Add these lines to example.inbpy to get the data on Colab
+```
+!curl -L -o Data.zip https://github.com/mjg-phys/HowToMakeAPlot/raw/main/PlottingChallenge/Data.zip
+!unzip Data.zip 
+!rm Data.zip
+
+!curl -L -o Models.zip https://github.com/mjg-phys/HowToMakeAPlot/raw/main/PlottingChallenge/Models.zip
+!unzip Models.zip 
+!rm Models.zip 
