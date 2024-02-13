@@ -44,7 +44,7 @@ Passcode: &dy1+ZkZ
 
 [Plotting Part 2](https://adelaide.zoom.us/rec/share/mprh8Oeg4LTqUnwUtDIfhLSZGQhdp3XkoT6SpJVU3luPF_Ud0Aj32RNywFPNvFWX.hjCIg2Qe3D5KyPFY?startTime=1707796850000)
 
-### Day 2:
+### Day 3:
 
 Passcode: d=F!71pR
 
