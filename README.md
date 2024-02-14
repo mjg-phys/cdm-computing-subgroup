@@ -19,6 +19,16 @@
 
 <img src="workshop_schedule.png" width="2000" height="500">
 
+### Lecturers:
+| Lecture | Lecturer | Contact Details |
+|----------|----------|----------|
+| Introduction and DM Freeze out and Relic Density    | Jayden Newstead     | jayden.newstead@unimelb.edu.au     |
+| Git Masterclass    | Albert Kong     | albert.kong@adelaide.edu.au     |
+| "Advanced Python" and Containers    | Stephan Meighan-Berger     | stephan.meighanberger@unimelb.edu.au      |
+| HowToMakeAPlot    | Ciaran O'Hare   | ciaran.ohare@sydney.edu.au     |
+| Bayesian and Frequentist Inference    | Jayden Newstead     | jayden.newstead@unimelb.edu.au     |
+| Introduction to Machine Learning    | Matthew Green     | matthew.green@adelaide.edu.au     |
+
 ## Recordings:
 
 ### Day 1:
@@ -40,9 +50,9 @@ Passcode: &dy1+ZkZ
 
 [Advanced Python / Containers Part 2](https://adelaide.zoom.us/rec/share/mprh8Oeg4LTqUnwUtDIfhLSZGQhdp3XkoT6SpJVU3luPF_Ud0Aj32RNywFPNvFWX.hjCIg2Qe3D5KyPFY?startTime=1707782486000)
 
-[Plotting Part 1](https://adelaide.zoom.us/rec/share/mprh8Oeg4LTqUnwUtDIfhLSZGQhdp3XkoT6SpJVU3luPF_Ud0Aj32RNywFPNvFWX.hjCIg2Qe3D5KyPFY?startTime=1707791439000)
+[HowToMakeAPlot Part 1](https://adelaide.zoom.us/rec/share/mprh8Oeg4LTqUnwUtDIfhLSZGQhdp3XkoT6SpJVU3luPF_Ud0Aj32RNywFPNvFWX.hjCIg2Qe3D5KyPFY?startTime=1707791439000)
 
-[Plotting Part 2](https://adelaide.zoom.us/rec/share/mprh8Oeg4LTqUnwUtDIfhLSZGQhdp3XkoT6SpJVU3luPF_Ud0Aj32RNywFPNvFWX.hjCIg2Qe3D5KyPFY?startTime=1707796850000)
+[HowToMakeAPlot Part 2](https://adelaide.zoom.us/rec/share/mprh8Oeg4LTqUnwUtDIfhLSZGQhdp3XkoT6SpJVU3luPF_Ud0Aj32RNywFPNvFWX.hjCIg2Qe3D5KyPFY?startTime=1707796850000)
 
 ### Day 3:
 
@@ -58,4 +68,7 @@ Passcode: d=F!71pR
 
 [Conclusion](https://adelaide.zoom.us/rec/share/94xW5KkerelIH1eN2U0_I_Y4VtvjY0H2BNxmITFqwh9iAhI8P1rkFc8MdWN8vJXr.hXDyFyPUpiiFn_8R?startTime=1707888454000)
 
+## Feedback Form
+
+If you wish to give feedback on the material on this Git, please fill out this [form](https://forms.office.com/r/0U8pFQrUbW).
 
