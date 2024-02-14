@@ -1,3 +1,7 @@
-CDM Computing Subgroup infomation: 
+Tutorial on Bayesian and frequentist inference
 
-*to be added*
+Delivered by Jayden Newstead
+
+The pdf contains slides introducing some basic concepts common to particle physics.
+
+The skeleton and solution notebooks contain worked real-world examples (without and with solutions respectively).
