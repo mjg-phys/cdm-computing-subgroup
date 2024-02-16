@@ -3,10 +3,10 @@
 
 ## ***There are 4 relevant notebooks here:
 
-- [IntroToMachineLearningPresentation.ipynb](link)
-- [ExploreLHCDataset.ipynb(link)
-- [NNtutorial.ipynb](link)
-- [NNtutorial_solutions.ipynb](link)
+- [IntroToMachineLearningPresentation](https://github.com/mjg-phys/cdm-computing-subgroup/blob/main/MLTutorial/IntroToMachineLearningPresentation.ipynb)
+- [ExploreLHCDataset](https://github.com/mjg-phys/cdm-computing-subgroup/blob/main/MLTutorial/ExploreLHCDataset.ipynb)
+- [NNtutorial](https://github.com/mjg-phys/cdm-computing-subgroup/blob/main/MLTutorial/NNtutorial.ipynb)
+- [NNtutorial_solutions](https://github.com/mjg-phys/cdm-computing-subgroup/blob/main/MLTutorial/NNtutorial_solutions.ipynb)
 
 
 ## IntroToMachineLearningPresentation
