@@ -1,4 +1,4 @@
-# CDM Computing Subgroup: 
+# CDM Computing Group
 
 ## Organisation Team
 
@@ -13,9 +13,15 @@
 - Ben McAllister (Swin)
 - Maxim Goryachev (UWA)
 
+## Mini-workshops
 
-## Schedule 
+### Monte Carlo methods - Jayden Newstead (April 2024)
 
+[Recording](https://unimelb.zoom.us/rec/share/7zZZfSBGxK4L0KcoN6whwJFeu_vDNJjDN_-kFFxdylWjURUCbRGFzSedspkHJAo_.TsunPxoLHicf0rSP) (Passcode: +S+W01QJ)
+
+The workshop notebook is in Mini-workshops/Monte_Carlo_methods
+
+## Kick-off workshop (Feb 2024)
 
 <img src="workshop_schedule.png" width="2000" height="500">
 
