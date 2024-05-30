@@ -17,9 +17,17 @@
 
 ### Monte Carlo methods - Jayden Newstead (April 2024)
 
-[Recording](https://unimelb.zoom.us/rec/share/7zZZfSBGxK4L0KcoN6whwJFeu_vDNJjDN_-kFFxdylWjURUCbRGFzSedspkHJAo_.TsunPxoLHicf0rSP) (Passcode: +S+W01QJ)
+[Recording](https://unimelb.zoom.us/rec/share/7zZZfSBGxK4L0KcoN6whwJFeu_vDNJjDN_-kFFxdylWjURUCbRGFzSedspkHJAo_.TsunPxoLHicf0rSP) 
+(Passcode: +S+W01QJ)
 
 The workshop notebook is in Mini-workshops/Monte_Carlo_methods
+
+### Machine Learning: Deep Learning Architectures - Matthew Green (May 2024)
+
+[Recording 1](https://unimelb.zoom.us/rec/share/2z55EaWtAYPOJK1MPBfGOVo8hgURLslBWks-OPcdNTw6yY5MRhWeyD11JsQV4a6O.dxQO--S6eF9HlwB_?startTime=1716164984000)
+Passcode: *jLo01FN
+
+The workshop material is in mini-workshops/ML_architectures
 
 ## Kick-off workshop (Feb 2024)
 
