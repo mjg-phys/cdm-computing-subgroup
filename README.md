@@ -27,6 +27,9 @@ The workshop notebook is in Mini-workshops/Monte_Carlo_methods
 [Recording 1](https://unimelb.zoom.us/rec/share/2z55EaWtAYPOJK1MPBfGOVo8hgURLslBWks-OPcdNTw6yY5MRhWeyD11JsQV4a6O.dxQO--S6eF9HlwB_?startTime=1716164984000)
 Passcode: *jLo01FN
 
+[Recording 2](https://unimelb.zoom.us/rec/share/v_pTNuvD_vQ7anZf92rUw2lXqdpMb9JO4Ny9-Kxo-bLoBpRoIEYckLgAmLwLmdG9.SU48qNnhrt42ut-y?startTime=1717374746000)
+Passcode: w+3e4Ia$
+
 The workshop material is in mini-workshops/ML_architectures
 
 ## Kick-off workshop (Feb 2024)
