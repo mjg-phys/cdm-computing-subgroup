@@ -1,3 +1,6 @@
 [submodule "plottingTutorial/HowToMakeAPlot"]
 	path = plottingTutorial/HowToMakeAPlot
 	url = https://github.com/mjg-phys/HowToMakeAPlot
+[submodule "mini-workshops/GEANT4_tut/DetEff"]
+	path = mini-workshops/GEANT4_tut/DetEff
+	url = https://github.com/lbignell/DetEff.git
