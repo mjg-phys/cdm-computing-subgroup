@@ -1,0 +1,9 @@
+# -----------------------------------------------------------------------------------------------------
+# Requirements
+# -----------------------------------------------------------------------------------------------------
+# Basic installation
+# it is recommended to install detectorExample using pip
+pip install detectorExample
+# optional: for ease of use we suggest using a conda environment
+conda create --name detectorExample
+conda activate detectorExample
