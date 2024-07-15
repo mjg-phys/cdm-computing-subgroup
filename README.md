@@ -32,6 +32,19 @@ Passcode: w+3e4Ia$
 
 The workshop material is in mini-workshops/ML_architectures
 
+### GEANT 4 - Lindsey Bignell (June 2024)
+[Recording 1](https://unimelb.zoom.us/rec/share/Oxnu99g8_p_YkvOnLSN5C7MydHW10m55HCNIPlXmUIpt0MFxlHyXGSn800GYhA1w.6Oo9fRk4n9dURQzX)
+Passcode: z.$Qn87%
+
+[Recording 2](https://unimelb.zoom.us/rec/share/Jc7uk1UJwGvOmI5LaMO6tDGMqSq8ddeXNJpQEcCm794oBc6C7YNUMTFoll4QWSid.aFo_jNfIerH4du__)
+Passcode: 6cJ7+.vG
+
+### Developing detector simulations - Stephan Meighen-Berger (July 2024)
+
+[Recording 1] To be added
+
+### 
+
 ## Kick-off workshop (Feb 2024)
 
 <img src="workshop_schedule.png" width="2000" height="500">
