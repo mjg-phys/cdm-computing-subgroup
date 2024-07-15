@@ -20,7 +20,7 @@
 [Recording](https://unimelb.zoom.us/rec/share/7zZZfSBGxK4L0KcoN6whwJFeu_vDNJjDN_-kFFxdylWjURUCbRGFzSedspkHJAo_.TsunPxoLHicf0rSP) 
 (Passcode: +S+W01QJ)
 
-The workshop notebook is in Mini-workshops/Monte_Carlo_methods
+The workshop notebook is in ``mini-workshops/Monte_Carlo_methods``
 
 ### Machine Learning: Deep Learning Architectures - Matthew Green (May 2024)
 
@@ -30,18 +30,24 @@ Passcode: *jLo01FN
 [Recording 2](https://unimelb.zoom.us/rec/share/v_pTNuvD_vQ7anZf92rUw2lXqdpMb9JO4Ny9-Kxo-bLoBpRoIEYckLgAmLwLmdG9.SU48qNnhrt42ut-y?startTime=1717374746000)
 Passcode: w+3e4Ia$
 
-The workshop material is in mini-workshops/ML_architectures
+The workshop material is in ``mini-workshops/ML_architectures``
 
-### GEANT 4 - Lindsey Bignell (June 2024)
+### GEANT4 - Lindsey Bignell (June 2024)
 [Recording 1](https://unimelb.zoom.us/rec/share/Oxnu99g8_p_YkvOnLSN5C7MydHW10m55HCNIPlXmUIpt0MFxlHyXGSn800GYhA1w.6Oo9fRk4n9dURQzX)
 Passcode: z.$Qn87%
 
 [Recording 2](https://unimelb.zoom.us/rec/share/Jc7uk1UJwGvOmI5LaMO6tDGMqSq8ddeXNJpQEcCm794oBc6C7YNUMTFoll4QWSid.aFo_jNfIerH4du__)
 Passcode: 6cJ7+.vG
 
+The workshop material is in ``mini-workshops/GEANT4_tut``
+
 ### Developing detector simulations - Stephan Meighen-Berger (July 2024)
 
 [Recording 1] To be added
+
+The workshop material is in ``mini-workshops/cdm_detector_example``
+
+
 
 ### 
 
