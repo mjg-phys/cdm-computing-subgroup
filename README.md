@@ -22,6 +22,7 @@ Passcode: +S+W01QJ
 
 [Recording 2](https://unimelb.zoom.us/rec/share/g9WCeA968gonZ0AYn1Wkw67yTDzxvAm3GJw-ux801UsAYkYFETCNcsszLc6TVCB6.zowrAcWYDwhtcpX8)
 Passcode: ciM.&u3F
+
 The workshop notebook is in ``mini-workshops/Monte_Carlo_methods``
 
 ### Machine Learning: Deep Learning Architectures - Matthew Green (May 2024)
