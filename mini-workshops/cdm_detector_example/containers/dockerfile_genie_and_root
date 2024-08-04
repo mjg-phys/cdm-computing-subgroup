@@ -50,7 +50,37 @@ RUN cd /opt && \
     /bin/bash -c "source /opt/build_pythia6.sh" && \
     cd /opt && rm -r build_pythia6.sh
 ENV PYTHIA6=/opt/v6_428
-FROM install_pythia as pathing_stuff
+FROM install_pythia as install_root
+RUN cd /opt && \
+    git clone --branch latest-stable --depth=1 https://github.com/root-project/root.git root_src && \
+    mkdir root_build root_install && cd root_build && \
+    cmake -DCMAKE_INSTALL_PREFIX=../root_install -DPython3_EXECUTABLE=/usr/bin/python3\
+    -Dpythia6=ON -DPYTHIA6_INCLUDE_DIR=$PYTHIA6/inc -DPYTHIA6_LIBRARY_DIR=$PYTHIA6/lib/libPythia6.so ../root_src && \
+    cmake --build . -- install -j2 && \
+    /bin/bash -c "source /opt/root_install/bin/thisroot.sh"
+FROM install_root as install_genie
+RUN cd /opt && \
+    git clone https://github.com/GENIE-MC/Generator.git
+RUN mkdir /opt/genie && mv /opt/Generator /opt/genie/Generator
+ENV GENIE=/opt/genie/Generator
+ENV ROOTSYS=/opt/root_install
+ENV PATH=$PATH:$ROOTSYS/bin:$GENIE/bin
+ENV PYTHIA6=/opt/v6_428
+ENV LHAPATH=/opt/lhapdf/share
+ENV LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/lib/x86_64-linux-gnu:$PYTHIA6/lib/:$ROOTSYS/lib:$GENIE/lib
+RUN cd /opt/genie/Generator && \
+    /bin/bash -c "source /opt/root_install/bin/thisroot.sh" && \
+    ./configure --prefix=/opt/Generator --disable-profiler --disable-validation-tools --disable-cernlib --disable-lhapdf5 \
+    --enable-lhapdf6 --with-lhapdf6-inc=/opt/lhapdf/inc --with-lhapdf6-lib=/opt/lhapdf/lib \
+    --enable-flux-drivers --enable-geom-drivers --disable-doxygen --enable-test --enable-mueloss --enable-dylibversion \
+    --enable-t2k --enable-fnal --enable-atmo --enable-nucleon-decay --disable-masterclass --disable-debug \
+    --with-optimiz-level=O2 --with-pythia6-lib=$PYTHIA6/lib && \
+    make
+FROM install_genie as pathing_stuff
+RUN echo "export PATH=/usr/local/lib/nodejs/node-v14.17.0-linux-x64/bin:${PATH}" >> /root/.bashrc && \
+    echo "source /opt/root_install/bin/thisroot.sh" >> /root/.bashrc && \
+    cd /bin && cp /root/.bashrc .bashrc && \
+    cd /opt && cp /root/.bashrc .bashrc
 # Create some non-root user that owns the data and other directories by default
 RUN useradd -r myuser && \
     mkdir /data && chown myuser /data && \
