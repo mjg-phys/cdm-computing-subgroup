@@ -49,6 +49,9 @@ The workshop material is in ``mini-workshops/GEANT4_tut``
 [Recording 1](https://unimelb.zoom.us/rec/share/14GbM_Gx2nJvsy1ilVIWqddf9GIFGZ2I9JlNpGNbhTFyVJ4Ixw6yzUgs3qKvMiKA.zL3md7ERg8SI4ssJ)
 Passcode: fZkG%4.=
 
+[Recording 2](https://unimelb.zoom.us/rec/share/Hdbyfdt-IK2OBHPRdqz74id1_3YaTTNNYnCwiOIK_QsbCMhLA1m3YkuExza7EZXx.Sr0gB6LCkcLUbi7h)
+Passcode: X?H73$9P
+
 The workshop material is in ``mini-workshops/cdm_detector_example``
 
 
