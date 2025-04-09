@@ -17,40 +17,32 @@
 
 ### Monte Carlo methods - Jayden Newstead (April 2024)
 
-[Recording 1](https://unimelb.zoom.us/rec/share/7zZZfSBGxK4L0KcoN6whwJFeu_vDNJjDN_-kFFxdylWjURUCbRGFzSedspkHJAo_.TsunPxoLHicf0rSP) 
-Passcode: +S+W01QJ
+[Recording 1](https://youtu.be/jJR1v_uou1A)
 
-[Recording 2](https://unimelb.zoom.us/rec/share/g9WCeA968gonZ0AYn1Wkw67yTDzxvAm3GJw-ux801UsAYkYFETCNcsszLc6TVCB6.zowrAcWYDwhtcpX8)
-Passcode: ciM.&u3F
+[Recording 2](https://youtu.be/s5jRRFQtGi0)
 
 The workshop notebook is in ``mini-workshops/Monte_Carlo_methods``
 
 ### Machine Learning: Deep Learning Architectures - Matthew Green (May 2024)
 
-[Recording 1](https://unimelb.zoom.us/rec/share/2z55EaWtAYPOJK1MPBfGOVo8hgURLslBWks-OPcdNTw6yY5MRhWeyD11JsQV4a6O.dxQO--S6eF9HlwB_?startTime=1716164984000)
-Passcode: *jLo01FN
+[Recording 1](https://youtu.be/RWPCT3hwoeE)
 
-[Recording 2](https://unimelb.zoom.us/rec/share/v_pTNuvD_vQ7anZf92rUw2lXqdpMb9JO4Ny9-Kxo-bLoBpRoIEYckLgAmLwLmdG9.SU48qNnhrt42ut-y?startTime=1717374746000)
-Passcode: w+3e4Ia$
+[Recording 2](https://youtu.be/iO7zvTjWtgQ)
 
 The workshop material is in ``mini-workshops/ML_architectures``
 
 ### GEANT4 - Lindsey Bignell (June 2024)
-[Recording 1](https://unimelb.zoom.us/rec/share/Oxnu99g8_p_YkvOnLSN5C7MydHW10m55HCNIPlXmUIpt0MFxlHyXGSn800GYhA1w.6Oo9fRk4n9dURQzX)
-Passcode: z.$Qn87%
+[Recording 1](https://youtu.be/KdJt98HenmU)
 
-[Recording 2](https://unimelb.zoom.us/rec/share/Jc7uk1UJwGvOmI5LaMO6tDGMqSq8ddeXNJpQEcCm794oBc6C7YNUMTFoll4QWSid.aFo_jNfIerH4du__)
-Passcode: 6cJ7+.vG
+[Recording 2](https://youtu.be/A8SN-lj-NOg)
 
 The workshop material is in ``mini-workshops/GEANT4_tut``
 
 ### Developing detector simulations - Stephan Meighen-Berger (July 2024)
 
-[Recording 1](https://unimelb.zoom.us/rec/share/14GbM_Gx2nJvsy1ilVIWqddf9GIFGZ2I9JlNpGNbhTFyVJ4Ixw6yzUgs3qKvMiKA.zL3md7ERg8SI4ssJ)
-Passcode: fZkG%4.=
+[Recording 1](https://youtu.be/A3p4-NcpcJA)
 
-[Recording 2](https://unimelb.zoom.us/rec/share/Hdbyfdt-IK2OBHPRdqz74id1_3YaTTNNYnCwiOIK_QsbCMhLA1m3YkuExza7EZXx.Sr0gB6LCkcLUbi7h)
-Passcode: X?H73$9P
+[Recording 2](https://youtu.be/x51oVOvg5cE)
 
 The workshop material is in ``mini-workshops/cdm_detector_example``
 
